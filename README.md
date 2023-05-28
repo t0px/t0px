@@ -5,4 +5,4 @@
 > I love designing, creating and deploying modern, interactive apps.
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,materialui,figma,photoshop,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,materialui,figma,photoshop,bootstrap,linux&theme=dark&perline=9)](https://skillicons.dev)
